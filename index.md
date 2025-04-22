@@ -13,3 +13,7 @@ Okay, and now they want an image? What, they think I just have one lying around?
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Learn to bake
+- [ ] Bake a cake
+- [x] Buy a cake
