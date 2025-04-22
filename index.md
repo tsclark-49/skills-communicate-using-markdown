@@ -17,3 +17,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Learn to bake
 - [ ] Bake a cake
 - [x] Buy a cake
+
+Okay, NOOOOOOW it makes sense!!!
