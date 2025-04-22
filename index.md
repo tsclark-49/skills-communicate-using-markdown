@@ -6,4 +6,4 @@ This makes absolutely no sense. Why aren't I in the right fork to do it like the
 
 Okay, and now they want an image? What, they think I just have one lying around? Can I even upload image files to Git?
 
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
